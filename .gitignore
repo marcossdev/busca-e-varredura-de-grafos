@@ -1,0 +1,5 @@
+*.zip
+*.png
+.venv
+dfs_graph/
+bfs_graph/
